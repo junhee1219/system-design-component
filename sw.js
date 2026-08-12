@@ -1,7 +1,7 @@
 /* 오프라인용 서비스 워커.
    내용을 고치면 CACHE 버전을 올린다 — 안 올리면 옛 화면이 계속 보인다.
    (04 CDN 카드의 minus 칸과 같은 문제다) */
-const CACHE = 'sdc-v1';
+const CACHE = 'sdc-v2';
 
 const ASSETS = [
   './',
